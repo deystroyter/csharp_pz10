@@ -1,0 +1,12 @@
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\Клиент-серверное приложение\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.dll
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\Клиент-серверное приложение\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.dll
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Net.Library\bin\Debug\SomeProject.Library.dll
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Net.Library\bin\Debug\SomeProject.Library.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Net.Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Net.Library\obj\Debug\SomeProject.Library.dll
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Net.Library\obj\Debug\SomeProject.Library.pdb

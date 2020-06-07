@@ -1,0 +1,26 @@
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\FedorovAD - Pz10\Tcp.Client\bin\Debug\TcpClient.exe.config
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\FedorovAD - Pz10\Tcp.Client\bin\Debug\TcpClient.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\FedorovAD - Pz10\Tcp.Client\bin\Debug\TcpClient.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\FedorovAD - Pz10\Tcp.Client\bin\Debug\SomeProject.Library.dll
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\FedorovAD - Pz10\Tcp.Client\bin\Debug\SomeProject.Library.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\FedorovAD - Pz10\Tcp.Client\obj\Debug\TcpClient.csprojAssemblyReference.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\FedorovAD - Pz10\Tcp.Client\obj\Debug\SomeProject.TcpClient.ClientMainWindow.resources
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\FedorovAD - Pz10\Tcp.Client\obj\Debug\SomeProject.TcpClient.Properties.Resources.resources
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\FedorovAD - Pz10\Tcp.Client\obj\Debug\TcpClient.csproj.GenerateResource.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\FedorovAD - Pz10\Tcp.Client\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\FedorovAD - Pz10\Tcp.Client\obj\Debug\TcpClient.csproj.CopyComplete
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\FedorovAD - Pz10\Tcp.Client\obj\Debug\TcpClient.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\FedorovAD - Pz10\Tcp.Client\obj\Debug\TcpClient.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Client\bin\Debug\TcpClient.exe.config
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Client\bin\Debug\TcpClient.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Client\bin\Debug\TcpClient.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Client\bin\Debug\SomeProject.Library.dll
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Client\bin\Debug\SomeProject.Library.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Client\obj\Debug\TcpClient.csprojAssemblyReference.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Client\obj\Debug\SomeProject.TcpClient.ClientMainWindow.resources
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Client\obj\Debug\SomeProject.TcpClient.Properties.Resources.resources
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Client\obj\Debug\TcpClient.csproj.GenerateResource.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Client\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Client\obj\Debug\TcpClient.csproj.CopyComplete
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Client\obj\Debug\TcpClient.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Client\obj\Debug\TcpClient.pdb

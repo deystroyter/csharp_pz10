@@ -1,0 +1,10 @@
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Server\bin\Debug\TcpServer.exe.config
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Server\bin\Debug\TcpServer.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Server\bin\Debug\TcpServer.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Server\bin\Debug\SomeProject.Library.dll
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Server\bin\Debug\SomeProject.Library.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Server\obj\Debug\TcpServer.csprojAssemblyReference.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Server\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Server\obj\Debug\TcpServer.csproj.CopyComplete
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Server\obj\Debug\TcpServer.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 10\ClientServer\Tcp.Server\obj\Debug\TcpServer.pdb
